@@ -26,3 +26,6 @@ normalizedPoint = log(minPoint) + log(1+point)/log(1+maxPoint)
 
 Maximum Iterations = 10. One can change it as per the convenience.
 
+Input format:
+<timestamp> <# service requests>
+
