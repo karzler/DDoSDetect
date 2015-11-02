@@ -2,6 +2,9 @@
 README
 *************************************************************
 
+Given a time series data of <time stamp> <# service requests>,
+figure out if there is a possibility of DDoS attack.
+
 ------------------------------------------------------------
 Algorithm
 ------------------------------------------------------------
